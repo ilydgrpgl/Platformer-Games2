@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gem
+  - Cherry
+  - EnemyDog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Zemin
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3849534787
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Zemin
+    uniqueID: 1774574133
+    locked: 0
+  - name: "Temasl\u0131Obje"
+    uniqueID: 120146823
+    locked: 0
+  - name: Enemy
+    uniqueID: 2989551669
+    locked: 0
+  - name: Weapon
+    uniqueID: 3919747137
+    locked: 0
+  - name: Player
+    uniqueID: 3721982223
+    locked: 0
+  - name: effect
+    uniqueID: 448538427
+    locked: 0
